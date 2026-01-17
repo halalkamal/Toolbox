@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "halalkamal.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "halalkamal.github",
+  "start_url": "/https://github.com/halalkamal/Toolbox/blob/main/Manifest.json",
+  "theme_color": "#ffffff"
+}
